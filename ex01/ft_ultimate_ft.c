@@ -6,7 +6,7 @@
 /*   By: pakucera <pakucera@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/09 11:53:50 by pakucera          #+#    #+#             */
-/*   Updated: 2021/09/09 15:17:40 by pakucera         ###   ########.fr       */
+/*   Updated: 2021/09/14 18:24:40 by pakucera         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@ void	ft_utlimate_ft(int *********nbr)
 	*********nbr = 42;
 }
 
-int	main(void)
+/*int	main(void)
 {
 	int	*nbr;
 	int	**nbr2;
@@ -47,4 +47,4 @@ int	main(void)
 	printf("Nouvelle valeur : %d\n", *nbr);
 	
 	return (0);
-}
+}*/

@@ -5,15 +5,12 @@
 /*                                                    +:+ +:+         +:+     */
 /*   By: pakucera <pakucera@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/09/09 11:53:50 by pakucera          #+#    #+#             */
-/*   Updated: 2021/09/14 18:24:40 by pakucera         ###   ########.fr       */
+/*   Created: 2021/09/14 21:53:10 by pakucera          #+#    #+#             */
+/*   Updated: 2021/09/14 21:53:18 by pakucera         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdio.h>
-#include <unistd.h>
-
-void	ft_utlimate_ft(int *********nbr)
+void	ft_ultimate_ft(int *********nbr)
 {
 	*********nbr = 42;
 }

@@ -6,7 +6,7 @@
 /*   By: pakucera <pakucera@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/09 15:23:20 by pakucera          #+#    #+#             */
-/*   Updated: 2021/09/09 16:48:15 by pakucera         ###   ########.fr       */
+/*   Updated: 2021/09/14 18:28:17 by pakucera         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,7 +27,7 @@ void	ft_ultimate_div_mod(int *a, int *b)
 	*b = tmpb;
 }
 
-/* int	main(void)
+int	main(void)
 {
 	int	x;
 	int	y;
@@ -38,4 +38,4 @@ void	ft_ultimate_div_mod(int *a, int *b)
 	printf("%d\n", x);
 	printf("%d\n", y);
 	return (0);
-} */
+}
